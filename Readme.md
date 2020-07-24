@@ -21,3 +21,4 @@ cordova.exec(function(success) {
 
 0 -> permission allowed , 1 - permission denied , 2 - permission denied with never ask again
 
+add permissions in menifest file whichever is required
